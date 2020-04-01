@@ -66,11 +66,8 @@ schedule:
         url: https://coderefinery.github.io/git-intro/
   - date: Day 2
     morning:
-      - time: 9:00 - 9:30
-        title: Introduction to version control - part 1/2 (TBA)
+      - time: 9:00 - 12:00
+        title: Introduction to version control - part 2/2 (TBA)
         url: https://coderefinery.github.io/git-intro/
-      - time: 9:30 - 12:00
-        title: Collaborative distributed version control 1/2 (TBA)
-        url: https://coderefinery.github.io/git-collaborative/
 
 ---
