@@ -173,13 +173,22 @@
     {% endif %}
 
     <h3>Prerequisites</h3>
+    {% if page.prerequisites %}
+    <ul>
+      {% for prereq in page.prerequisites %}
+        <li>{{ prereq }}</li>
+      {% endfor %}
+    </ul>
+    {% else %}
     <ul>
       <li>You should be able to navigate the file tree in a terminal session and edit text files in the terminal. <a href="https://scicomp.aalto.fi/scicomp/shell.html">This Linux shell crash course </a> contains the essentials.</li>
       <li>Basics in one or more programming languages.</li>
       <li>You will need to bring a laptop.</li>
+      <li>It is good if you have access to Eduroam.</li>
       <li>You need to install some software. Please follow links in the schedule.
       <li>It is useful if you have a basic idea of how Git works. We will start from the basics, but please go through <a href="https://coderefinery.github.io/git-refresher/">this Git-refresher material</a> for a basic overview and important configuration steps.
     </ul>
+    {% endif %}
 
     <h3>Instructors</h3>
     <ul>
