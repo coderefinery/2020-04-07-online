@@ -30,16 +30,23 @@ helpers:
 # contact email address
 contact: support@coderefinery.org
 
-# normally no need to modify this
+# modify below sections for specialized workshops
+
+prerequisites:
+    - You should be able to navigate the file tree in a terminal session and edit text files in the terminal. <a href="https://scicomp.aalto.fi/scicomp/shell.html">This Linux shell crash course </a> contains the essentials.
+    - You will need to use a laptop or desktop computer with stable internet 
+      connection, a headset or inbuilt microphone, and optionally a webcamera.
+    - You need to install some software. Please follow links in the schedule.
+    - It is useful if you have a basic idea of how Git works. We will start from the basics, but please go through <a href="https://coderefinery.github.io/git-refresher">this Git-refresher material </a> for a basic overview and important configuration steps.
+
+
 goals:
-    The aim of this course is to demonstrate to and familiarize
-    the workshop participants with best practices and tools in modern research
-    software development. The main focus is on professional tools
-    for efficiently writing and maintaining research software.
-    Since most research code is developed in a collaborative
-    setting, we will discuss tools and workflows which facilitate
-    this process. Most of the content is also relevant to
-    a single researcher.
+    The aim of this course is to demonstrate to and familiarize the
+    workshop participants with best practices and tools for version
+    control in modern research software development. The main focus
+    is on using Git for efficiently writing and maintaining research
+    software.
+
 
 format: 
     Hands-on informal and interactive online two-day event with
