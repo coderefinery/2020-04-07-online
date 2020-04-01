@@ -25,11 +25,17 @@
     </p>
 
     <h3>Format</h3>
+    {% if page.format %}
+      <p>
+       {{ page.format }}
+      </p>
+    {% else %}
     <p>
       Hands-on informal and interactive three-day event with type-along type of
       presentations, live coding and demos. Short tutorials alternate with practical
       exercises.
     </p>
+    {% endif %}
 
     <h3>Course goals</h3>
     {% if page.goals %}
@@ -152,6 +158,11 @@
     </p>
 
     <h3>What we will not teach</h3>
+    {% if page.goals %}
+      <p>
+       {{ page.notincluded }}
+      </p>
+    {% else %}
     <p>
       This is not a course about a specific programming language or
       the Linux/Unix terminal shell.  We assume that you are familiar with the programming
@@ -159,6 +170,7 @@
       language-independent as possible but we will show some basic code examples in
       Python.
     </p>
+    {% endif %}
 
     <h3>Prerequisites</h3>
     <ul>
