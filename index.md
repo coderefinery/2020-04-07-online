@@ -41,6 +41,16 @@ goals:
     this process. Most of the content is also relevant to
     a single researcher.
 
+format: 
+    Hands-on informal and interactive online two-day event with
+    type-along type of presentations, live coding and demos. Short
+    tutorials alternate with practical exercises.
+
+notincluded:
+    This is not a course about a specific programming language or the
+    Linux/Unix terminal shell. The course is language-independent and 
+    the exercises are designed such that everyone can relate to them.
+
 # software that should be installed for the workshop (update if needed)
 software:
   - title: Bash
