@@ -13,7 +13,7 @@ location: Online Zoom room. Link will be sent to registered participants.
 # address: Some address
 
 # date and time
-time: "9:00 - 12:00"
+time: "9:00 - 12:00 (CEST)"
 dates: "April 7-8, 2020"
 
 # Add link to registration form here and specify when the registration opens and whether it is closed
@@ -75,15 +75,15 @@ software:
 schedule:
   - date: Day 1
     morning:
-      - time: 9:00 - 9:30
+      - time: 9:00 - 9:30 (CEST)
         title: Welcome and practical information (TBA)
         url: https://github.com/coderefinery/workshop-intro/blob/master/README.md
-      - time: 9:30 - 12:00
+      - time: 9:30 - 12:00 (CEST)
         title: Introduction to version control - part 1/2 (TBA)
         url: https://coderefinery.github.io/git-intro/
   - date: Day 2
     morning:
-      - time: 9:00 - 12:00
+      - time: 9:00 - 12:00 (CEST)
         title: Introduction to version control - part 2/2 (TBA)
         url: https://coderefinery.github.io/git-intro/
 
