@@ -68,8 +68,6 @@ software:
     url: https://coderefinery.github.io/installation/git/
   - title: (optional) Visual diff tools
     url: https://coderefinery.github.io/installation/difftools/
-  - title: Accounts
-    url: https://coderefinery.github.io/installation/#accounts
 
 # adjust schedule here if needed, and assign lessons to instructors
 schedule:
