@@ -4,7 +4,7 @@ include: workshop
 
 # title and subtitle
 title: Online CodeRefinery workshop 
-subtitle: Version control for sustainable software development
+subtitle: Introduction to version control with Git
 
 # location and address
 # you can also link to a map using e.g. openstreetmap, for example:
