@@ -2,7 +2,9 @@
 
 ### Location
 
-Online Zoom room. Link will be sent to registered participants.
+Online Zoom room.
+Link to the video room will be sent to registered participants.
+We recommend to install the [Zoom client](https://zoom.us/download).
 
 
 ### Time
