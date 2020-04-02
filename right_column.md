@@ -9,7 +9,10 @@ We recommend to install the [Zoom client](https://zoom.us/download).
 
 ### Time
 
-9:00 - 12:00 (CEST)
+- Tuesday 9:00 - 12:00 (CEST)
+  ([convert to my time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CodeRefinery-workshop&iso=20200407T07&ah=3))
+- Wednesday 9:00 - 12:00 (CEST)
+  ([convert to my time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CodeRefinery-workshop&iso=20200408T07&ah=3))
 
 
 ### Price
