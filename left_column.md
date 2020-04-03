@@ -44,10 +44,10 @@ packages need to be installed as detailed on the Python installation page.
 Tuesday, April 7
 - 8:30 - 9:00 (CEST)
   Optional: You can connect and test your video client and also we can iron out technical issues.
-- 9:00 - 9:20 (CEST)
+- 9:00 - 9:15 (CEST)
   [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
-  (TBA)
-- 9:20 - 12:00 (CEST)
+  (Radovan)
+- 9:15 - 12:00 (CEST)
   [Introduction to version control - part 1/2](https://coderefinery.github.io/git-intro/)
   (TBA)
 
