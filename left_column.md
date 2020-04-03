@@ -42,6 +42,8 @@ packages need to be installed as detailed on the Python installation page.
 ### Schedule
 
 Tuesday, April 7
+- 8:30 - 9:00 (CEST)
+  Optional: You can connect and test your video client and also we can iron out technical issues.
 - 9:00 - 9:20 (CEST)
   [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
   (TBA)
