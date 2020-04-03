@@ -62,11 +62,13 @@ Python.
 
 ### Instructors
 
-- TBA
+- Richard Darst
+- Thor Wikfeldt
+- Radovan Bast
 
 
 ### Helpers
 
 ([tips for helpers](https://github.com/coderefinery/manuals/blob/master/helping-and-teaching.md))
 
-- TBA
+- Flavio Calvo
