@@ -41,15 +41,15 @@ packages need to be installed as detailed on the Python installation page.
 
 ### Schedule
 
-Day 1
-- 9:00 - 9:30 (CEST)
+Tuesday, April 7
+- 9:00 - 9:20 (CEST)
   [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
   (TBA)
-- 9:30 - 12:00 (CEST)
+- 9:20 - 12:00 (CEST)
   [Introduction to version control - part 1/2](https://coderefinery.github.io/git-intro/)
   (TBA)
 
-Day 2
+Wednesday, April 8
 - 9:00 - 12:00 (CEST)
   [Introduction to version control - part 2/2](https://coderefinery.github.io/git-intro/)
   (TBA)
