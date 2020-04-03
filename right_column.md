@@ -63,6 +63,7 @@ Python.
 
 ### Instructors
 
+- Anne Fouilloux
 - Richard Darst
 - Thor Wikfeldt
 - Radovan Bast
@@ -73,3 +74,4 @@ Python.
 ([tips for helpers](https://github.com/coderefinery/manuals/blob/master/helping-and-teaching.md))
 
 - Flavio Calvo
+- João M. da Silva
