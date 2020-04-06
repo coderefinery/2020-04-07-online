@@ -22,7 +22,7 @@ exercises.
 The aim of this course is to demonstrate to and familiarize the workshop
 participants with best practices and tools for version control in modern
 research software development. The main focus is on using Git for efficiently
-writing and maintaining research software.
+writing and maintaining research software.  The material is most of the CodeRefinery lesson [Introduction to version control](https://coderefinery.github.io/git-intro/).
 
 
 ### **Software requirements**
@@ -41,41 +41,43 @@ packages need to be installed as detailed on the Python installation page.
 
 ### Schedule
 
+The main page for course material is [Introduction to version control](https://coderefinery.github.io/git-intro/).
+
 (All times are in CEST)
 
 Tuesday, April 7
 - 8:30 - 9:00
   Optional: You can connect and test your video client and also we can iron out technical issues.
 - 9:00 - 9:15
-  [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
+  [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md).
   (Radovan)
 - 9:15 - 9:30
-  [Motivation for version control](https://coderefinery.github.io/git-intro/)
+  [Motivation for version control](https://coderefinery.github.io/git-intro/01-motivation/)
   (Anne)
 - Break
 - 9:30 - 10:00
-  [Git basics](https://coderefinery.github.io/git-intro/)
+  [Git basics](https://coderefinery.github.io/git-intro/02-basics/)
   (Anne)
 - Break
 - 10:15 - 10:45
-  [Staging area and undoing things](https://coderefinery.github.io/git-intro/)
+  [Staging area](https://coderefinery.github.io/git-intro/04-staging-area/) and [undoing things](https://coderefinery.github.io/git-intro/05-undoing/)
   (Richard)
 - Break
 - 11:00 - 12:00
-  [Branching and merging](https://coderefinery.github.io/git-intro/)
+  [Branching and merging](https://coderefinery.github.io/git-intro/06-branches/)
   (Thor)
 
 Wednesday, April 8
 - 8:30 - 9:00
   Optional: You can connect and test your video client and also we can iron out technical issues.
 - 9:00 - 9:45
-  [More branching and merging](https://coderefinery.github.io/git-intro/)
+  [More branching and merging](https://coderefinery.github.io/git-intro/06-branches/)
   (Radovan)
 - Break
 - 10:00 - 10:45
-  [Sharing repositories online](https://coderefinery.github.io/git-intro/)
+  [Sharing repositories online](https://coderefinery.github.io/git-intro/09-remotes/)
   (Richard)
 - Break
 - 11:00 - 12:00
-  [Inspecting history](https://coderefinery.github.io/git-intro/)
+  [Inspecting history](https://coderefinery.github.io/git-intro/10-archeology/)
   (Radovan)
