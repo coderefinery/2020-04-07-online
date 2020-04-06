@@ -2,7 +2,7 @@
 
 ### April 7-8, 2020
 
-<a class="btn btn-success" href="https://indico.neic.no/event/133/" data-mode="1" target="_blank">Register here</a>
+<a class="btn btn-danger disabled" href="#" data-mode="1" target="_blank">Registration is closed</a>
 
 
 ### Contact
