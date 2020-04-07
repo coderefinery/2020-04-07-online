@@ -72,7 +72,7 @@ Wednesday, April 8
   Optional: You can connect and test your video client and also we can iron out technical issues.
 - 9:00 - 9:45
   [More branching and merging](https://coderefinery.github.io/git-intro/06-branches/)
-  (Radovan)
+  (Thor)
 - Break
 - 10:00 - 10:45
   [Sharing repositories online](https://coderefinery.github.io/git-intro/09-remotes/)
