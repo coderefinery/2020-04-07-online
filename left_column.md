@@ -70,14 +70,14 @@ Tuesday, April 7
 Wednesday, April 8
 - 8:30 - 9:00
   Optional: You can connect and test your video client and also we can iron out technical issues.
-- 9:00 - 9:45
+- 9:00 - 10:20
   [More branching and merging](https://coderefinery.github.io/git-intro/06-branches/)
   (Thor)
 - Break
-- 10:00 - 10:45
+- 10:30 - 11:00
   [Sharing repositories online](https://coderefinery.github.io/git-intro/09-remotes/)
   (Richard)
 - Break
-- 11:00 - 12:00
+- 11:10 - 12:00
   [Inspecting history](https://coderefinery.github.io/git-intro/10-archeology/)
   (Radovan)
